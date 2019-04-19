@@ -8,10 +8,11 @@
     <link rel="stylesheet" href="css/style_block1.css">
     <link rel="stylesheet" href="css/style_block2.css">
     <link rel="stylesheet" href="css/style_block5.css">
-    <link rel="stylesheet" href="css/style_block6.css">
     <link rel="stylesheet" href="css/style_block7.css">
     <link rel="stylesheet" href="css/card.css">
     <link rel="stylesheet" href="min/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style_block6.css">
+
     <script src="https://raw.githubusercontent.com/maxwellito/vivus/master/src/vivus.js"></script>
     <script src="js/vivus.js"></script>
     <script src="https://raw.githubusercontent.com/maxwellito/vivus/master/src/pathformer.js"></script>
@@ -101,7 +102,7 @@ We are dedicated to the holistic education of future leaders who will demonstrat
     <div class="item6" style="margin-top:-300px;">
         <div class="contact_form">
         <form method="post" action="dbSave.php" align="left">
-                <h3 align="center"> Contact Us </h3>
+                <h3 class="contact_h3" align="center"> Contact Us </h3>
                 <div class="formss">
 				<div>                
                 	<label>NAME </label>

@@ -4,7 +4,7 @@
         <div class="all_content">
             <div class="contacts">
                 <p class="emails"><i class="det fas fa-envelope"></i>&nbsp leadership.summit@xaviers.edu.in</p>
-                <p class="contact"><i class="det fas fa-phone-square"></i>&nbsp 91xxxxxxxx</p>
+            <!--    <p class="contact"><i class="det fas fa-phone-square"></i>&nbsp 91xxxxxxxx</p>-->
                 <p class="location"><i class="det fas fa-map-marker-alt"></i>&nbsp St. Xavier's College Autonomous</p>
             </div>
             

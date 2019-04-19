@@ -5,8 +5,7 @@
     padding: 10px;
     grid-auto-columns: minmax(100px, auto);
     grid-gap: 1px;
-    
-    
+       
   }
 
 .contact_form{
@@ -29,7 +28,7 @@
     
 }
 .in_touch h3{
-    font: 45px "Bookmania", serif;
+    font: 45px "Century Gothic", serif;
     margin: 10px;
 }
 .passes_inner_class{
@@ -58,6 +57,15 @@
     border-radius: 10px; 
     
 }
+.in_touch h3{
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    color: black;
+}
+.contact_form h3{
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    color: black;
+    font-size: 50px;
+}
 .passes_inner_class a{
     margin: 5px auto;
 }
@@ -68,10 +76,7 @@
     padding:  13px;
     margin:  10px;
 }
-.contact_form h3{
-    font: 50px "Bookmania", serif;
 
-}
 
 .contact_form form label{
     float: left;
@@ -79,7 +84,6 @@
 }
 .passes_inner_class .card h5{
     font: 35px "Bookmania", serif;
-    
 }
 .passes_inner_class .card p{
     font: 25px "Bookmania", serif;
